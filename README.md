@@ -1,8 +1,6 @@
-# React + Vite
+Saw this cool design on twitter https://twitter.com/sovpal/status/1742640211782185261 so i just built it 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live : https://habit-tracker-twitter.netlify.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/Sushants-Git/Habit-Tracker/assets/100516354/60b45650-b996-496f-9616-213ac68557f2)
